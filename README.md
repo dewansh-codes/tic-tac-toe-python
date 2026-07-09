@@ -1,6 +1,6 @@
 # Tic-Tac-Toe (Python)
 
-A command-line Tic-Tac-Toe game built with Python. The project focuses on implementing core Python concepts, including functions, loops, conditional statements, lists, dictionaries, input validation, and game logic.
+A command-line Tic-Tac-Toe game built with Python. This project demonstrates core Python concepts, including functions, loops, conditional statements, lists, dictionaries, tuples, input validation, and game logic.
 
 ## Features
 
@@ -31,19 +31,19 @@ Press the corresponding key to place your mark on the board.
 
 ## Running the Project
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/dewansh-codes/tic-tac-toe-python.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd tic-tac-toe-python
 ```
 
-Run the program:
+3. Run the program:
 
 ```bash
 python tic_tac_toe.py
@@ -56,6 +56,7 @@ python tic_tac_toe.py
 - Conditional statements
 - Lists
 - Dictionaries
+- Tuples
 - Input validation
 - Game logic
 - Modular programming
